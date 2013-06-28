@@ -1,0 +1,11 @@
+process1/waga
+*.o
+*.dia~
+gui/Makefile
+moc_*.cpp
+ui_*.h
+*~ core
+*.core
+gui/gui
+t/t
+t/Makefile
